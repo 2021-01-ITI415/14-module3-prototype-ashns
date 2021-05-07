@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Crystal
+  - Barrier
+  - Barrier2
+  - secondPartBarrier
+  - missionTrigger
+  - endTrigger
+  - person
   layers:
   - Default
   - TransparentFX
